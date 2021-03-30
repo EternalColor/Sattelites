@@ -2,7 +2,7 @@
 
 # Sattelites
 
-This is a planetary simulation. Following Kepplers laws of motion. You can configure the mass of the earth and can spawn in sattelites that orbit around the earth.
+This is a planetary simulation, following Kepplers laws of motion. You can configure the mass of the earth and can spawn in sattelites that orbit around the earth.
 The Sattelites will accelerate accordingly to the mass of the earth.
 
 ![image](https://user-images.githubusercontent.com/58613850/112965248-5e8ef780-9149-11eb-8c20-d86d06560721.png)
