@@ -28,7 +28,7 @@ public class RotateAround : MonoBehaviour
     {   
         float distance = Vector3.Distance(this.transform.position, this.Attractor.transform.position);
 
-        //Prevent Time from overflowing
+        //TODO: Prevent Time from overflowing
         this.currentTimeInMilliseconds += Time.fixedDeltaTime;
 
         //Velocity calculated according to kepplers motion law -> the higher the mass of the planet the higher the velocity will be.
